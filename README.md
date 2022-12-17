@@ -1,7 +1,7 @@
 
 # Weather App
 
-A web app that uses Rapid Api to get weather and related informations for the location entered.
+A web app that uses Rapid Api to get weather and related information for the location entered.
 
 
 
